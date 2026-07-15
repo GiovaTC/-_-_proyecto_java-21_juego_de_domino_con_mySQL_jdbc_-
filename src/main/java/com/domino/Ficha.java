@@ -22,4 +22,4 @@ public class Ficha {
     public String toString() {
         return "[" + lado1 + "|" + lado2 + "]";
     }
-}   
+}
