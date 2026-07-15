@@ -3,6 +3,8 @@
 
 <img width="1254" height="1254" alt="image" src="https://github.com/user-attachments/assets/1788ea7b-e310-47fb-8449-ff7ed0e760c5" />    
 
+<img width="2559" height="1039" alt="image" src="https://github.com/user-attachments/assets/a9a4d198-5600-4d9a-833a-88adaf28e6d3" />    
+
 Proyecto muy básico desarrollado en **Java 21**, utilizando **IntelliJ IDEA**, **Consola**, **MySQL** y **JDBC**, donde se implementa un **Juego de Dominó**.
 
 ---
